@@ -39,11 +39,12 @@
 
 ### 5.1 Gewinnen 📈
 
+- Nimm mir arbeit ab, die ich nicht mehr (groß) korrigieren muss
 - Sei eine hilfreiche [Rubber Duck 😆](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
 ### 5.2 Verlieren 📉
 
-- immer wieder die selben Fehler machen
+- immer wieder die gleichen Fehler machen
 - Absprachen nicht einhalten/brechen
 
 ## 6. Das sind meine Stärken 💪
