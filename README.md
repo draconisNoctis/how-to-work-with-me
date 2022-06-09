@@ -34,6 +34,7 @@
 ## 😑 4. Diese Dinge an mir könnten dich nerven
 
 - ungeduldig
+- ich rante gerne/oft
 
 ## 5. So verlierst oder gewinnst du mein Vertrauen
 
