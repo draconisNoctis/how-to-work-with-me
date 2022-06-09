@@ -1,8 +1,8 @@
 # HowToWorkWithMe
 
-## 1. Intro
+## 🚀 1. Intro
 
-### 🏹 1.1 Wo komm ich her?
+### 1.1 Wo komm ich her?
 
 1. Schulische Ausbildung als ITA
 2. Ausbildung als FI/AE mit anschließender Übernahme
